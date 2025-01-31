@@ -1,0 +1,26 @@
+{
+    "name": "win95-clone",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "lucide-react": "^0.270.0",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "framer-motion": "^10.12.6"
+    },
+    "devDependencies": {
+      "@types/react": "^18.0.28",
+      "@types/react-dom": "^18.0.11",
+      "@vitejs/plugin-react": "^3.1.0",
+      "autoprefixer": "^10.4.14",
+      "postcss": "^8.4.21",
+      "tailwindcss": "^3.3.2",
+      "vite": "^4.3.9"
+    }
+  }
+  
