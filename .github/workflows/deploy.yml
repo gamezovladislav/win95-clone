@@ -32,5 +32,4 @@ jobs:
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build # или dist, в зависимости от вашей конфигурации сборки
-          branch: gh-pages 
+          folder: dist # или dist, в зависимости от вашей конфигурации сборки
